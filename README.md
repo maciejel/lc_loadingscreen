@@ -3,7 +3,7 @@
 ## **Configuration**
 `nui/style.css`
 ```css
-root {
+:root {
     --accent-color: #e9e114; 
     --background: #000;
     --light-text: #aaa;
